@@ -33,3 +33,5 @@ article {
     padding: 1em;
     overflow: hidden;
 }
+a:hover {
+    color: red;
