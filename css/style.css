@@ -1,24 +1,29 @@
 div.container {
   width: 100%;
   border: 1px solid tag;
-  background-color: #ccf2ff;
+  background-color: #c6bcb4;
 }
 header, footer {
     padding: 1em;
-    color: #606276;
-    background-color: #ccccff;
+    color: white;
+    background-color: #76706c;
     clear: left;
     text-align: center;
+    letter-spacing: 2px;
+}
+header {
+    font-size: 20px;
 }
 nav {
     float: left;
     max-width: 160px;
-    margin: 0;
+    margin: 20px;
     padding: 1em;
 }
 nav ul {
     list-style-type: none;
-    padding: 0;}
+    padding: 0;
+}
 nav ul a {
         text-decoration: none;
 }
